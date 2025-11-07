@@ -1,4 +1,4 @@
 # DEMO
 This is my frist Repository.
 <br>
-Author-Dnyaneshwar Gayke
+Author-Dnyaneshwar Gayke (Student)
